@@ -16,6 +16,6 @@
 * Succession (TV show)
 
 <h3> work, work, work, work, work </h3>
-* Literature Notes
+* Quantum Info Literature/Notes
 
 <h3> social media </h3>
