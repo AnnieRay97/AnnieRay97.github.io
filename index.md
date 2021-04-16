@@ -1,7 +1,7 @@
 <h3> about me </h3>
-* what I do: PhD student in Quantum Information at Institute for Quantum Computing, University of Waterloo.
-* what I love: Music! (I sing, play the ukulele and am learning to play the guitar) and TV.
-* character traits: lazier than the laziest house cat you know, curiouser than most, mostly clueless.
+* <b>what I do</b>: PhD student in Quantum Information at Institute for Quantum Computing, University of Waterloo.
+* <b>what I love</b>: Music! (I sing, play the ukulele and am learning to play the guitar) and TV.
+* <b>character traits</b>: lazier than the laziest house cat you know, curiouser than most, mostly clueless.
 
 <h3> current obsessions </h3>
 * Billions (TV show)
