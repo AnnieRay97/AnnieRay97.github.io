@@ -17,5 +17,3 @@
 
 <h3> work, work, work, work, work </h3>
 * Quantum Info Literature/Notes
-
-<h3> social media </h3>
