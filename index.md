@@ -4,7 +4,6 @@
 * <b>character traits</b>: lazier than the laziest house cat you know, curiouser than most, mostly clueless.
 
 <h3> current obsessions </h3>
-* Billions (TV show)
 * Arlo Parks (singer)
 * Parcels (Music Band)
 * Everything German
@@ -12,6 +11,7 @@
 
 <h3> forever favs </h3>
 * Muse (Music Band)
+* Hayley Williams (Singer)
 * Lewis Carroll (Author)
 * Succession (TV show)
 
